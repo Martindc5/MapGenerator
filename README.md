@@ -9,6 +9,6 @@ You only need to do:
   - Run the program with: $python3 main.py  (in Linux)
 
 ## About this project
-I take to tipes of noise function, the pearlin and simple noise. The program only create a two dimensional matrix and then aply color in it, then put the biomes and that's all for now. Actually this is a fun project but I promise to improve it if I have time. 
+I take two tipes of noise function, the pearlin and a simple noise function. The program only create a two dimensional matrix and then aply color in it, then put the biomes and that's all for now. Actually I made it just for fun project but if you wont to improve it I'm sure I will acept evrery changes you makes.
 
-Enjoy it.
+Enjoys the code.
