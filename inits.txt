@@ -1,0 +1,3 @@
+This project is made with:
+    1) Python 3.8 interpreter
+    2) Libraries: matplotlib, numpy, noise and random
